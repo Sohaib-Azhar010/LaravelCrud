@@ -1,0 +1,7 @@
+It's a laravel projiect which performs basic crud operations
+Database name is mycrud
+Place the project in htdocs folder in Drive C
+
+create database in MySQL named mycrud
+then run the command 
+php artisan migrate
